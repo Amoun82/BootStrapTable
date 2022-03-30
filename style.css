@@ -1,0 +1,16 @@
+h1{
+    color: red;
+}
+
+.container-fluid{
+    border: 1px solid black;
+    height: 2500px;
+    margin-top: 20px;
+}
+
+div>div>img{
+    width: 30%;
+    height: auto;
+}
+
+
